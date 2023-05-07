@@ -1,4 +1,4 @@
-# hmm-pos-tagger
+# Part-of-Speech Tagging using Hidden Markov Models
 Developed a Hidden Markov Model part-of-speech tagger for Italian, Japanese and Urdu.
 
 ## HMM Learning
